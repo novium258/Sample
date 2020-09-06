@@ -23,7 +23,7 @@ These steps help us keep the project up-to-date and make it easier to review req
 
 1. If the pull request is associated with an issue, add a comment in the issue referencing the pull request.
 2. To protect against future regressions, we require the code submitted through Pull Requests to have unit test coverage. 
-3.
+3. Code should adhere to the style guide (LINK), or if short, link to a subsection in here. 
 4.
 ### Code Review Process
 
