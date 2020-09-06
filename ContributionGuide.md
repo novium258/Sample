@@ -8,7 +8,7 @@ This project and everyone participating in it is governed by the [code of conduc
 
 ## Submitting Issues
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). To report a bug, please create an issue and provide a detailed explaination of the problem.
+Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). To report a bug, please create an issue and provide a detailed explaination of the problem. (***Insert more detail here about what information you want people to submit in bug reports***)
 
 ## Contribution Process
 
@@ -19,26 +19,26 @@ We have a 3 step process for contributions:
 3. Perform a [Code Review](#code-review-process) with the project maintainers on the pull request.
 
 ### Pull Request Requirements
-
-We strive to ensure quality for the TCGstorageAPI project. In order to ensure this, we require that all pull requests to meet these specifications:
+These steps help us keep the project up-to-date and make it easier to review requests. When submitting a pull request, please follow these guidelines:
 
 1. If the pull request is associated with an issue, add a comment in the issue referencing the pull request.
 2. To protect against future regressions, we require the code submitted through Pull Requests to have unit test coverage. 
-
+3.
+4.
 ### Code Review Process
 
 Code review takes place in GitHub pull requests. See [this article](https://help.github.com/articles/about-pull-requests/) if you're not familiar with GitHub Pull Requests.
 
-Once you open a pull request, project maintainers will review your code and respond to your pull request with any feedback they might have. The process at this point is as follows:
+Once you open a pull request, project maintainers will review your code and respond to your pull request with any feedback they might have. The process at this point is as follows:  (***insert your code review process here***, e.g.:)
 
-1. A Seagate developer must review and approve your PR.
-2. Your change will be merged into the project's `master` branch
+1. A Seagate developer must review and approve your PR. The reviewer will be focusing on: (***metrics by which code is judged. What are the requirements for code to be approved?) 
+2. Your change will be merged into the project's main branch
 
 ### Developer Certification of Origin (DCO)
 
 Licensing is very important to open source projects. It helps ensure the software continues to be available under the terms that the author desired.
 
-TCGstorageAPI uses [the Apache 2.0 license](https://github.com/Seagate/TCGstorageAPI/blob/master/LICENSE.md) to strike a balance between open contribution and allowing you to use the software however you would like to.
+(PROJECT) uses (LICENSE, e.g) the Apache 2.0 license (LINK) to strike a balance between open contribution and allowing you to use the software however you would like to.
 
 The license tells you what rights you have that are provided by the copyright holder. It is important that the contributor fully understands what rights they are licensing and agrees to them. Sometimes the copyright holder isn't the contributor, such as when the contributor is doing work on behalf of a company.
 
