@@ -7,6 +7,7 @@ Here is where you can describe some of the goals / core features for your projec
 * To help contributors understand how to successfully contribute to the project
 * To set expectations for standards of behavior, coding styles, and code review 
 * To help get new contributors up and running as quickly as possible
+* To help anyone understand the terms under which the project is licensed. 
 
 # Get Started 
 Here we describe what can be found in the quick start guide and provide a link. 
