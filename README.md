@@ -1,7 +1,7 @@
 # Insert Project Name
-Here is where we describe what our project does. 
+Here is where we describe what our project does. For example, this project is a guide to setting up an Open Source Repository for Seagate. 
 ## Optional Project Scope
-Here is where you can describe some of the goals / core features for your project.
+Here is where you can describe some of the goals / core features for your project. 
 # Get Started 
 Here we describe what can be found in the quick start guide and provide a link. 
 
