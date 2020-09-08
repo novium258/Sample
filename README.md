@@ -1,7 +1,13 @@
 # Insert Project Name
 Here is where we describe what our project does. For example, this project is a guide to setting up an Open Source Repository for Seagate. 
 ## Optional Project Scope
-Here is where you can describe some of the goals / core features for your project. 
+Here is where you can describe some of the goals / core features for your project. For example, this project is designed to help you set up the core documentation for your Github repo. The goals of following these templates are:
+
+* To make sure potential contributors understand what the project is for and what its goals are
+* To help contributors understand how to successfully contribute to the project
+* To set expectations for standards of behavior, coding styles, and code review 
+* To help get new contributors up and running as quickly as possible
+
 # Get Started 
 Here we describe what can be found in the quick start guide and provide a link. 
 
