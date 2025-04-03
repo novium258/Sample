@@ -1,0 +1,56 @@
+Week | Task | Subtasks | Dependencies
+--- | --- | --- | ---
+1 | Identify 4 active users & 4 potential ambassadors | Research forums, Reddit, GitHub, Discord | -
+ |  | Identify key engagement metrics to define activity | -
+ |  | Compile initial outreach list | Research Completed
+1 | Develop outreach messaging | Analyze language and topics of interest | Outreach List Compiled
+ |  | Draft and refine message templates | Language Analysis Completed
+2 | Personalize invitations for top contributors | Customize outreach based on user activity | Messaging Developed
+ |  | Send personalized invites | Invitations Prepared
+2 | Initiate outreach to Bay Area tech communities | Identify relevant tech and AI groups | -
+ |  | Connect with community leaders | Groups Identified
+ |  | Post in relevant Slack/Discord channels | Leaders Contacted
+3 | Plan Bay Area launch event (venue, logistics) | Identify venue options | Outreach Initiated
+ |  | Coordinate catering/logistics | Venue Identified
+ |  | Secure venue booking | Venue Selected
+ |  | Create event agenda | Venue Confirmed
+3 | Get key RSVPs | Follow up with top invitees | Invitations Sent
+ |  | Confirm attendance | RSVPs Followed Up
+4 | Announce launch event | Draft social media announcement | Key RSVPs Confirmed
+ |  | Schedule and post announcement | Announcement Drafted
+4 | Establish social media posting schedule | Define posting frequency and platforms | -
+ |  | Create content calendar | Platforms Defined
+5 | Incentivize engagement (social shares, etc.) | Define reward mechanisms | Posting Schedule Set
+ |  | Launch engagement incentive campaign | Reward Mechanism Defined
+6 | Onboard new ambassadors | Provide onboarding materials | Event Completed
+ |  | Define ambassador engagement tasks | Materials Prepared
+ |  | Assign first tasks | Engagement Tasks Defined
+6 | Plan "n8n Automation Hour" | Define event format | -
+ |  | Secure speakers or demo leaders | Event Format Defined
+ |  | Set date and venue | Speakers Secured
+7 | Reach out to potential external ambassadors | Identify new prospects | Event Completed
+ |  | Personalize outreach messaging | Prospects Identified
+ |  | Initiate conversations | Messaging Developed
+8 | Host "n8n Automation Hour" | Finalize agenda | Planning Completed
+ |  | Promote event | Agenda Finalized
+ |  | Run event and gather feedback | Event Promoted
+9 | Begin planning "n8n & Friends" networking talks | Secure venue | -
+ |  | Identify speakers | Venue Secured
+ |  | Develop event structure | Speakers Identified
+10 | Highlight ambassador contributions | Collect success stories | Event Completed
+ |  | Create content and share highlights | Stories Collected
+11 | Share content from first event | Draft post-event write-up | Event Completed
+ |  | Share key takeaways and videos | Write-Up Drafted
+12 | Promote upcoming "n8n & Friends" event | Draft and schedule promo posts | Content Shared
+ |  | Engage with attendees online | Posts Scheduled
+13 | Support ambassador-led event | Assist with event logistics | Ambassador Onboarded
+ |  | Promote ambassador-led initiatives | Logistics Finalized
+14 | Convert 1 external ambassador | Finalize agreement with ambassador | Outreach Completed
+15 | Host "n8n & Friends" networking talks | Run event and gather feedback | Planning Completed
+16 | Plan "n8n Bay Area Automation Showcase" demo night | Secure venue and finalize logistics | -
+17 | Gather feedback from events | Distribute surveys and collect insights | Events Completed
+18 | Amplify ambassador content | Share community-generated content | -
+19 | Share second event highlights | Create recap post | Event Completed
+ |  | Publish user testimonials | Recap Created
+20 | Promote third event & call for demo submissions | Draft and schedule promo posts | Event Completed
+ |  | Engage with potential demo participants | Posts Scheduled
